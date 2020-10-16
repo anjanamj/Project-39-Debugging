@@ -47,4 +47,5 @@ function draw() {
     
      game.end();
    }
+   console.log(gameState)
 }
